@@ -24,6 +24,7 @@ if (triggered)
 			if (current_wave == total_waves)
 			{
 				with (oDoor) global.closed = false;
+				
 				instance_destroy();
 			}
 			else
@@ -31,5 +32,6 @@ if (triggered)
 				current_wave++;
 				timer = 0;
 			}
+			audio_stop_sound(mFight);
 		}
 }

@@ -5,6 +5,8 @@ with(oGun)
 {
 	instance_destroy();
 }
+audio_stop_sound(mFight);
+
 instance_change(oMainDead,true);
 
 direction = point_direction(other.x,other.y,x,y);

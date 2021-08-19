@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if (triggered == false)
 {	
-	audio_stop_all();
+	audio_stop_sound(mFight);
 	audio_play_sound(mFight,1000,true);
 	//close doors and stop from retriggering
 	with (oDoor) 
