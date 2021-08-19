@@ -48,6 +48,9 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oMain","path":"objects/oMain/oMain.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":640.0,"resourceVersion":"1.0","name":"inst_197F9004","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":640.0,"resourceVersion":"1.0","name":"inst_3E71FE3A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oRoomTransition","path":"objects/oRoomTransition/oRoomTransition.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":640.0,"resourceVersion":"1.0","name":"inst_3EFD1242","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"text","path":"objects/oPaper/oPaper.yy",},"objectId":{"name":"oPaper","path":"objects/oPaper/oPaper.yy",},"value":"\"I'm almost there! \\n I have to be careful tho... \\n I sense something dangerous!\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"oPaper","path":"objects/oPaper/oPaper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1824.0,"y":768.0,"resourceVersion":"1.0","name":"inst_C57B13D","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oPillarBot","path":"objects/oPillarBot/oPillarBot.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":800.0,"resourceVersion":"1.0","name":"inst_5264CAAF","tags":[],"resourceType":"GMRInstance",},
@@ -7940,6 +7943,7 @@
     {"name":"inst_6BEBB93","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_BCB452C","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_13E864E6","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_C57B13D","path":"rooms/Room3/Room3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
