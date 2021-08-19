@@ -43,7 +43,7 @@ y +=random_range(-shake_remain,shake_remain);
 shake_remain = max(0,shake_remain-((1/shake_length)*shake_magnitude)); //reduce shake at frames
 
 //Update camera view
-camera_set_view_pos(cam,x-view_w_half,y-view_h_half
+camera_set_view_pos(cam,x-view_w_half,y-view_h_half);
 
 if (room != rMenu) && (room != rEnding)
 {
@@ -53,4 +53,7 @@ if (room != rMenu) && (room != rEnding)
 	}
 	
 	if (layer_exists("Plant"))
+	{
+		layer_x("Trees",x/4);
+	}
 }
