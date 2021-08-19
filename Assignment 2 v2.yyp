@@ -49,6 +49,7 @@
     {"id":{"name":"sCloud","path":"sprites/sCloud/sCloud.yy",},"order":46,},
     {"id":{"name":"sPillarBot","path":"sprites/sPillarBot/sPillarBot.yy",},"order":34,},
     {"id":{"name":"oCeilingSolid","path":"objects/oCeilingSolid/oCeilingSolid.yy",},"order":35,},
+    {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":41,},
     {"id":{"name":"snLanding","path":"sounds/snLanding/snLanding.yy",},"order":5,},
     {"id":{"name":"oGunPickup","path":"objects/oGunPickup/oGunPickup.yy",},"order":24,},
     {"id":{"name":"oSolidBlock","path":"objects/oSolidBlock/oSolidBlock.yy",},"order":18,},
