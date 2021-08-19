@@ -30,6 +30,7 @@
     {"id":{"name":"sGun","path":"sprites/sGun/sGun.yy",},"order":4,},
     {"id":{"name":"pShootable","path":"objects/pShootable/pShootable.yy",},"order":26,},
     {"id":{"name":"sMarker","path":"sprites/sMarker/sMarker.yy",},"order":30,},
+    {"id":{"name":"oEnding","path":"objects/oEnding/oEnding.yy",},"order":42,},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},"order":2,},
     {"id":{"name":"Approach","path":"scripts/Approach/Approach.yy",},"order":2,},
     {"id":{"name":"sTable","path":"sprites/sTable/sTable.yy",},"order":43,},
